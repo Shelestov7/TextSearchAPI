@@ -2,11 +2,9 @@
 
 # TextSearchAPI
 
-Simple RestAPI with single endpoint.
+Golang web-based application that provides a single Restful API endpoint.
 
-Api provide only one endpoint bind on `/api/v0.1/search/`
-
-Full path `http://host:port/api/v0.1/search/{searchWord}`
+API provides only one endpoint binded on `/api/v0.1/search/`
 
 #### Endpoint response example:
 
