@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"TextSearchAPI/interanal/api/v0.1"
+	"TextSearchAPI/internal/api/v0.1"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"

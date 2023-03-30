@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"os"
 
-	"TextSearchAPI/interanal/api/routes"
-	"TextSearchAPI/interanal/api/v0.1"
-	"TextSearchAPI/interanal/config"
+	"TextSearchAPI/internal/api/routes"
+	"TextSearchAPI/internal/api/v0.1"
+	"TextSearchAPI/internal/config"
 )
 
 func main() {
